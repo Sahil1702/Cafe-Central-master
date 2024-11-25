@@ -1,0 +1,11 @@
+*{
+  font-family: 'Gilroy';
+}
+
+.story::-webkit-scrollbar{
+  display: none;
+}
+
+a:focus {
+  outline: none !important;
+}
